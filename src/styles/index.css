@@ -1,0 +1,26 @@
+*{
+    overflow-x: clip;
+}
+body {
+    font-family: 'Roboto', 'Open Sans', 'Lato', sans-serif;
+  }
+.bg-silver{
+    background-color: #f5f7fa;
+}
+.btn-secondary:hover{
+    background-color: #686868;
+}
+.bg-email{
+    background-color: #4d4d4d;
+}
+.bg-email:focus{
+    background-color: #4d4d4d;
+}
+.footer-bg{
+    background-color:#263238;
+}
+.Text-light{
+    color: rgb(167, 175, 184) ;
+}
+
+
